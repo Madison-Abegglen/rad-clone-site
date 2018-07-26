@@ -30,33 +30,20 @@
 .mg-t-r3{
     margin-top: 60px;
 }
-.lock-img{
-    height: 170px;
-    padding: 15px;
-}
-.sparkle-img{
-    height: 170px;
-    padding: 15px;
-}
-.tec-img{
-    height: 170px;
-    padding: 15px;
-}
-.limited-img{
-    height: 170px;
-    padding: 15px;
-}
-.satellite-img{
-    background-image: url(images/satellite-map-images-12-generating-realistic-imagery-with-deep-neural-networks.jpg);
-    background-size: cover;
-    min-height: 500px;
-}
 .mg-t-r4{
     margin-top: 400px;
 }
 .mg-t-r5{
     margin-top: 30px;
 }
+.satellite-img{
+    background-image: url(images/satellite-map-images-12-generating-realistic-imagery-with-deep-neural-networks.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
 .join{
     position: absolute;
+}
+.features img{
+    display: block;
 }
