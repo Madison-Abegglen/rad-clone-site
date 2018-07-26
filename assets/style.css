@@ -1,0 +1,62 @@
+.bg-white{
+    background-color: white;
+    min-height: 300px;
+}
+.bg-blue{
+    background-color: #7EA3CF;
+    min-height: 400px;
+}
+.bg-gray{
+    background-color: #404040;
+    min-height: 100px;
+}
+.vtmain{
+    background-image: url(images/vault-tec-bg.jpg);
+    background-size: cover;
+    min-height: 500px;
+    background-position: center top;
+}
+.txtwhite{
+    font-family: sans-serif;
+    color: white;
+}
+.mg-t-r1{
+    margin-top: 200px;
+}
+.mg-t-r2{
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+.mg-t-r3{
+    margin-top: 60px;
+}
+.lock-img{
+    height: 170px;
+    padding: 15px;
+}
+.sparkle-img{
+    height: 170px;
+    padding: 15px;
+}
+.tec-img{
+    height: 170px;
+    padding: 15px;
+}
+.limited-img{
+    height: 170px;
+    padding: 15px;
+}
+.satellite-img{
+    background-image: url(images/satellite-map-images-12-generating-realistic-imagery-with-deep-neural-networks.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
+.mg-t-r4{
+    margin-top: 400px;
+}
+.mg-t-r5{
+    margin-top: 30px;
+}
+.join{
+    position: absolute;
+}
