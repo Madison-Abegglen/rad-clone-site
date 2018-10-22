@@ -29,6 +29,13 @@
   font-size: 2rem;
   position: relative;
 }
+.icons-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
 /* .bg-white{
     background-color: white;
     min-height: 300px;
